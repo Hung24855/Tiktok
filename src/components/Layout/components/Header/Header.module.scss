@@ -79,7 +79,17 @@
                 }
             }
 
+            
+
         }
     }
 }
 
+
+.search-result {
+    width: var(--search-width);
+
+    .search-title {
+        margin-left: 10px;
+    }
+}
